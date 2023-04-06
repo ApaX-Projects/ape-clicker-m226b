@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"controller","c":"ClickerGame","l":"ClickerGame()","u":"%3Cinit%3E()"},{"p":"controller","c":"ClickerGame","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
